@@ -1,0 +1,14 @@
+xxxx
+xxxx
+xxxx
+xxxx
+xxxx
+xxxx
+2019-12-15 20:36:38,382 - root - DEBUG - xxxx
+2019-12-15 20:36:57,928 - root - DEBUG - xxxx
+2019-12-15 20:57:51,821 - DEBUG - logger_config.py:22 - root - xxxx
+2019-12-15 21:02:18,778 logger_config.py--> <module> 10: DEBUG ----->xxxx
+2019-12-15 21:06:49,131 logger_config.py--> <module> 10: DEBUG ----->xxxx
+2019-12-15 21:49:44,482 logger_config.py--> <module> 10: DEBUG -->xxxx
+2019-12-15 21:53:09,728 logger_config.py--> <module> 10: DEBUG -->xxxx
+2019-12-15 21:53:47,269 logger_config.py--> <module> 10: DEBUG -->xxxx
